@@ -1,2 +1,3 @@
-# classify_written_num
-Identifies hand-written numbers using machine learning.
+# Identify Digits
+Identifies hand-written digits using machine learning.
+Trained on the mnist dataset.
